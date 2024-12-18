@@ -1,0 +1,22 @@
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\bin\Debug\ExcelProject.exe.config
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\bin\Debug\ExcelProject.exe
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\bin\Debug\ExcelProject.pdb
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csproj.AssemblyReference.cache
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csproj.ResolveComReference.cache
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.Form1.resources
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.Properties.Resources.resources
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csproj.GenerateResource.cache
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.csproj.CoreCompileInputs.cache
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.exe
+C:\Users\YPN-1255\source\repos\ExcelProject\ExcelProject\obj\Debug\ExcelProject.pdb
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\bin\Debug\ExcelProject.exe.config
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\bin\Debug\ExcelProject.exe
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\bin\Debug\ExcelProject.pdb
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.Form1.resources
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.Properties.Resources.resources
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.exe
+C:\Users\DELL\Desktop\excel-master (1)\excel-master\ExcelProject\obj\Debug\ExcelProject.pdb
